@@ -1,0 +1,13 @@
+This project is to help construct an online shopping system and to fulfill its basic business logic.
+
+In constant package, the two files are to store those constant parameters in our project.
+
+The exception package is to help handle exceptions. BizCodeEnume.java list all those exceptions and its match codes.
+
+Files in to package are to connect those relevant entities.
+
+Files in utils package are to really fulfill those logic.
+
+Files in valid package are to valid whether the visitor is a valid user, for authorization and authentication.
+
+Files in xss package are some do some modification on incoming data to ensure the format our parameters.
