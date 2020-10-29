@@ -1,4 +1,5 @@
 This project is to help construct an online shopping system and to fulfill its basic business logic.
+This project is built on microservices and used Spring Cloud.
 
 In constant package, the two files are to store those constant parameters in our project.
 
