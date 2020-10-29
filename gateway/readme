@@ -1,0 +1,6 @@
+This a the gateway part codes for an online shopping system called gulimall. The project is built on Spring Boot and Spring Cloud, used Junit for unit test.
+
+In src/main/java directory, gulimall/gateway package  was created.
+
+In this package, the GulimallCorsConfiguration.java is a configuration file, sets allowed headers, allowed methods, etc. The GulimallGatewayApplication.java the main method for this project. And the GulimallGatewayApplicationTests.java file is for unit test, to write test cases in this file.
+
